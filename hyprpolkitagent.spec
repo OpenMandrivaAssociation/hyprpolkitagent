@@ -1,6 +1,6 @@
 Name:		hyprpolkitagent
 Version:	0.1.2
-Release:	1
+Release:	2
 Summary:	A polkit authentication agent written in QT/QML
 Group:		Hyprland
 License:	BSD-3-Clause
