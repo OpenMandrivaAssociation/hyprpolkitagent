@@ -14,7 +14,7 @@ BuildRequires:	pkgconfig(hyprutils)
 BuildRequires:	pkgconfig(polkit-agent-1)
 BuildRequires:	pkgconfig(polkit-qt6-1)
 
-Requires: hyprland_qtutils%{?_isa}
+Requires: hyprland_qtutils
 
 BuildSystem: cmake
 
