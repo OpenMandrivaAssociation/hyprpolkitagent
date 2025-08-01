@@ -30,6 +30,6 @@ BuildSystem: cmake
 %files
 %license LICENSE
 %doc README.md
-%{_datadir}/dbus-1/services/%{name}.service
+%{_datadir}/dbus-1/services/org.hyprland.%{name}.service
 %{_libexecdir}/%{name}
 %{_userunitdir}/%{name}.service
